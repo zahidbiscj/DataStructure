@@ -1,0 +1,7 @@
+C:\Users\Zahid Ahmed\Desktop\All resource of Full stack ASP net core\DataStructure\DataStructure\bin\Debug\DataStructure.exe.config
+C:\Users\Zahid Ahmed\Desktop\All resource of Full stack ASP net core\DataStructure\DataStructure\bin\Debug\DataStructure.exe
+C:\Users\Zahid Ahmed\Desktop\All resource of Full stack ASP net core\DataStructure\DataStructure\bin\Debug\DataStructure.pdb
+C:\Users\Zahid Ahmed\Desktop\All resource of Full stack ASP net core\DataStructure\DataStructure\obj\Debug\DataStructure.csprojAssemblyReference.cache
+C:\Users\Zahid Ahmed\Desktop\All resource of Full stack ASP net core\DataStructure\DataStructure\obj\Debug\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\Zahid Ahmed\Desktop\All resource of Full stack ASP net core\DataStructure\DataStructure\obj\Debug\DataStructure.exe
+C:\Users\Zahid Ahmed\Desktop\All resource of Full stack ASP net core\DataStructure\DataStructure\obj\Debug\DataStructure.pdb
